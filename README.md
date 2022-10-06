@@ -7,7 +7,7 @@ Python/Django Developer
 I'm a fresher and currently pursuing Artificial intelligence and machine learning. I have done a 1 year certification as a python/Django developer.
 
 * 🌍  I'm Lived in Mumbai Maharashtra, India
-* ✉️  You can contact me at [majidgt786@gmail.com@gmail.com](mailto:majidgt786@gmail.com)
+* ✉️  You can contact me at [majidgt786@gmail.com](mailto:majidgt786@gmail.com)
 * 🧠  I'm learning Full-stack Development and ml algorithms.
 
 ## 🚀 Skills And Technologys Know
