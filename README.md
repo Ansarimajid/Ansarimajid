@@ -4,7 +4,7 @@ Hi 👋 My name is Ansari Majid Ali
 Python/Django Developer
 ----------------
 
-I'm a fresher and currently pursuing Artificial intelligence and machine learning. I have done a 1 year certification as a python/Django developer.
+I'm a experienced in Django web development and currently pursuing Artificial intelligence and machine learning. I have done a 2+ year as a python/Django developer.
 
 * 🌍  I'm Lived in Mumbai Maharashtra, India
 * ✉️  You can contact me at [majidgt786@gmail.com](mailto:majidgt786@gmail.com)
