@@ -3,10 +3,11 @@
 👋 Hello there! I'm Ansari Majid Ali, a passionate Python/Django developer currently working as an intern at ASC(Application Software Centre) IIT Bombay. I have over 2 years of experience in web development using Django and I'm also deeply interested in the field of Artificial Intelligence and Machine Learning.
 
 ## About Me
-
 - 🌍  I reside in the vibrant city of Mumbai, Maharashtra, India.
 - ✉️  You can reach me at [majidgt786@gmail.com](mailto:majidgt786@gmail.com).
 - 🧠  I have a keen interest in learning and applying full-stack development techniques and exploring various machine learning algorithms.
+
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ## Skills and Experience
 
