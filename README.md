@@ -6,7 +6,14 @@
 - 🌍  I reside in the vibrant city of Mumbai, Maharashtra, India.
 - ✉️  You can reach me at [majidgt786@gmail.com](mailto:majidgt786@gmail.com).
 - 🧠  I have a keen interest in learning and applying full-stack development techniques and exploring various machine learning algorithms.
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
 
+| GitHub Stats                                                                                                                                      | Languages                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Ansarimajid's github stats](https://github-readme-stats.vercel.app/api?username=Ansarimajid&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarimajid&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid"></img>
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ## Skills and Experience
