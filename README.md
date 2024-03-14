@@ -6,6 +6,15 @@
 - 🌍  I reside in the vibrant city of Mumbai, Maharashtra, India.
 - ✉️  You can reach me at [majidgt786@gmail.com](mailto:majidgt786@gmail.com).
 - 🧠  I have a keen interest in learning and applying full-stack development techniques and exploring various machine learning algorithms.
+
+## Projects
+
+During my career, I have worked on numerous projects, some of which include:
+
+1. **College ERP** - Developed an Enterprise Resource Planning (ERP) system tailored for educational institutions, providing features for managing student records, academic schedules, administrative tasks, and more. [GitHub Repository](https://github.com/Ansarimajid/College-ERP.git) | [Live Demo](https://syncx.pythonanywhere.com/)
+   
+2. **Notes Management System** - Designed and implemented a comprehensive notes management system to organize and manage academic materials efficiently, facilitating easy access and retrieval of course notes. [GitHub Repository](https://github.com/Ansarimajid/Notes-Management-System.git) | [Live Demo](https://ansarimajid.pythonanywhere.com/)
+
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
