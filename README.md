@@ -16,14 +16,15 @@ During my career, I have worked on numerous projects, some of which include:
 2. **Learning-Tree NMS** - Designed and implemented a comprehensive notes management system to organize and manage academic materials efficiently, facilitating easy access and retrieval of course notes. **Contact me for access -** [GitHub Private Repository](https://github.com/Ansarimajid) | [Live Demo](https://ansarimajid.pythonanywhere.com/)
 
 <!--   GitHub stats graph -->
+<div align="center">
+   
 ### 📈 GitHub Activity Graph:
 
-| GitHub Stats                                                                                                                                      | Languages                                                                                                                        |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Ansarimajid's github stats](https://github-readme-stats.vercel.app/api?username=Ansarimajid&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarimajid&theme=radical&layout=compact) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid&theme=transparent" width="708px">
+<img src="https://github-readme-stats.vercel.app/api?username=Ansarimajid&show_icons=true&theme=transparent" width="400px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarimajid&theme=transparent&layout=compact" width="303px"></img>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid"></img>
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ## Skills and Experience
 
@@ -53,3 +54,5 @@ Feel free to get in touch with me if you have any questions, suggestions, or col
 | Deployment      | <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/aws/aws.svg" width="42" height="36" alt="Aws" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://www.pythonanywhere.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/pythonanywhere.com/pythonanywhere.svg" width="36" height="36" alt="pythonanywhere" /></a>   |
 | Designing       | <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 | Socials       | <a href="https://www.github.com/Ansarimajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/majid-ansari-961319221" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.instagram.com/ansari_majid_ali/" target="_blank" rel="noreferrer"><img src="https://gist.githubusercontent.com/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" width="32" height="32" /></a> |
+
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
