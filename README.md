@@ -32,14 +32,6 @@ During my career, I have worked on numerous projects, some of which include:
 - 🤖 Machine Learning: I'm currently delving into the exciting field of Machine Learning, exploring algorithms and techniques to solve complex problems.
 - 🌐 Full-stack Development: I'm actively expanding my knowledge in full-stack development, acquiring expertise in both frontend and backend technologies.
 
-## Projects
-
-During my career, I have worked on numerous projects, some of which include:
-
-1. **E-commerce Website** - Developed a fully functional e-commerce platform using Django, incorporating features like product listings, user authentication, shopping cart, and payment integration.
-2. **Social Media Analytics Dashboard** - Created a data analytics dashboard using Python and Django, which allows users to track and analyze social media trends and engagement metrics.
-3. **Image Recognition App** - Built a machine learning-powered image recognition application using Python and popular libraries like TensorFlow and OpenCV.
-
 ## Interests
 
 Apart from programming and development, I have a few other interests:
