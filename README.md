@@ -1,11 +1,11 @@
-# Python/Django Intern at ASC IIT Bombay
+# AI/ML Engineer at AccuraScan - KYC Solutions
 
-👋 Hello there! I'm Ansari Majid Ali, a passionate Python/Django developer previously worked as an intern at ASC(Application Software Centre) IIT Bombay. I have over 2 years of experience in web development using Django and I'm also deeply interested in the field of Artificial Intelligence and Machine Learning.
+👋 Hello there! I'm Ansari Majid Ali, An AI/ML Engineer at AccuraScan, previously worked as an intern at ASC(Application Software Centre) IIT Bombay. I have over 1 years of experience in AI/ML also 2+ years of experience in Python/Django development.
 
 ## About Me
 - 🌍  I reside in the vibrant city of Mumbai, Maharashtra, India.
-- ✉️  You can reach me at [majidgt786@gmail.com](mailto:majidgt786@gmail.com).
-- 🧠  I have a keen interest in learning and applying full-stack development techniques and exploring various machine learning algorithms.
+- ✉️  You can reach me at [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com).
+- 🧠  I have a keen interest in learning and applying AI/ML development techniques and exploring various field of research in AI.
 
 ## Projects
 
