@@ -121,12 +121,20 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid&theme=dark" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansarimajid&show_icons=true&theme=dark" width="45%" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid&theme=transparent&hide_border=true&date_format=j%20M%5B%20%27%y%5D&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="Streak Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ansarimajid&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&text_color=58A6FF&bg_color=0D1117&title_color=58A6FF" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarimajid&theme=dark&layout=compact" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ansarimajid&theme=radical&no-frame=true&row=1&column=7" alt="Trophy" width="100%" />
 </div>
 
 ## 🌈 Research & Innovation Interests
