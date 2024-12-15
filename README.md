@@ -1,58 +1,149 @@
-# AI/ML Engineer at AccuraScan - KYC Solutions
+# Hi there! I'm Ansari Majid Ali 👋
 
-👋 Hello there! I'm Ansari Majid Ali, An AI/ML Engineer at AccuraScan, previously worked as an intern at ASC(Application Software Centre) IIT Bombay. I have over 1 years of experience in AI/ML also 2+ years of experience in Python/Django development.
+## 🤖 AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Specialist
 
-## About Me
-- 🌍  I reside in the vibrant city of Mumbai, Maharashtra, India.
-- ✉️  You can reach me at [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com).
-- 🧠  I have a keen interest in learning and applying AI/ML development techniques and exploring various field of research in AI.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ansari-961319221)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ansarimajid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ansari_majid_ali/)
 
-## Projects
+## 🌟 Professional Profile
 
-During my career, I have worked on numerous projects, some of which include:
+I'm an AI/ML Engineer passionate about pushing the boundaries of artificial intelligence, specializing in deep learning, computer vision, and generative AI technologies. With a mission to solve complex problems through cutting-edge machine learning solutions.
 
-1. **College ERP** - Developed an Enterprise Resource Planning (ERP) system tailored for educational institutions, providing features for managing student records, academic schedules, administrative tasks, and more. [GitHub Repository](https://github.com/Ansarimajid/College-ERP.git) | [Live Demo](https://syncx.pythonanywhere.com/)
-   
-2. **Learning-Tree NMS** - Designed and implemented a comprehensive notes management system to organize and manage academic materials efficiently, facilitating easy access and retrieval of course notes. **Contact me for access -** [GitHub Private Repository](https://github.com/Ansarimajid) | [Live Demo](https://ansarimajid.pythonanywhere.com/)
+## 💡 AI & Machine Learning Expertise
 
-<!--   GitHub stats graph -->
+### 🧠 Core Competencies
+- Deep Learning Architecture Design
+- Computer Vision
+- Machine Learning Algorithms
+- Generative AI Solutions
+- Neural Network Development
+- AI Model Optimization
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning Frameworks & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Technology
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Deployment & Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1C3D5A?style=for-the-badge&logo=pythonanywhere&logoColor=white)
+
+
+## 🚀 AI/ML Focus Areas
+
+### 🔍 Specializations
+- **Computer Vision**
+  - Image Classification
+  - Object Detection
+  - Semantic Segmentation
+  - Face Recognition Technologies
+
+- **Deep Learning**
+  - Convolutional Neural Networks (CNNs)
+  - Recurrent Neural Networks (RNNs)
+  - Generative Adversarial Networks (GANs)
+  - Transformer Architectures
+
+- **Generative AI**
+  - Large Language Models
+  - Generative Design
+  - AI-Powered Content Creation
+  - Synthetic Data Generation
+
+## 🚀 Flagship AI/ML Projects
+
+### 1. EcoVoxGen: Real-Time Voice Cloning
+- 🎙️ Advanced neural network-based voice synthesis technology
+- 🔍 Features:
+  - Real-time voice cloning
+  - Speaker embedding extraction
+  - High-fidelity audio generation
+- 🛠️ Technologies: PyTorch, TensorFlow, Deep Learning, Speech Synthesis
+
+### 2. PPE Detection System
+- 🦺 AI-powered Personal Protective Equipment (PPE) detection
+- 🔬 Key Capabilities:
+  - Real-time object detection
+  - Safety compliance monitoring
+  - Multi-class PPE identification
+- 🧠 Technologies: YOLO, OpenCV, TensorFlow, Computer Vision
+
+### 3. Advanced Face Recognition System
+- 👤 Cutting-edge facial recognition solution
+- ✨ Highlights:
+  - Deep learning-based facial feature extraction
+  - Multi-face detection and identification
+  - High accuracy facial matching
+- 🤖 Technologies: Face Recognition API, OpenCV, Deep Learning
+
+### 4. Generative AI Content Creation Platform
+- 🎨 AI-driven content generation system
+- 💡 Innovative Features:
+  - Text-to-image generation
+  - Creative writing assistance
+  - Style transfer capabilities
+- 🧠 Technologies: Generative AI, Transformer Models, GANs
+
+### 5. Sentiment Analysis Dashboard
+- 📊 Intelligent social media sentiment tracker
+- 🔍 Core Functionalities:
+  - Real-time emotion detection
+  - Multi-language sentiment analysis
+  - Visualization of emotional trends
+- 🛠️ Technologies: Natural Language Processing, Machine Learning, Data Visualization
+
+## 📊 GitHub Stats
+
 <div align="center">
-   
-### 📈 GitHub Activity Graph:
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid&theme=transparent" width="708px">
-<img src="https://github-readme-stats.vercel.app/api?username=Ansarimajid&show_icons=true&theme=transparent" width="400px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarimajid&theme=transparent&layout=compact" width="303px"></img>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid&theme=dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansarimajid&show_icons=true&theme=dark" width="45%" />
 </div>
 
-## Skills and Experience
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarimajid&theme=dark&layout=compact" width="45%" />
+</div>
 
-- 💻 Python: I have a strong command of the Python programming language and its various libraries and frameworks.
-- 🌐 Django: I have hands-on experience in developing web applications using the Django framework, enabling me to create robust and scalable solutions.
-- 🤖 Machine Learning: I'm currently delving into the exciting field of Machine Learning, exploring algorithms and techniques to solve complex problems.
-- 🌐 Full-stack Development: I'm actively expanding my knowledge in full-stack development, acquiring expertise in both frontend and backend technologies.
+## 🌈 Research & Innovation Interests
 
-## Interests
+- 🤖 Exploring cutting-edge AI technologies
+- 💡 Developing intelligent solutions
+- 🔬 Continuous learning in machine learning domains
 
-Apart from programming and development, I have a few other interests:
+## 📬 Let's Connect & Collaborate!
 
-- 📚 Reading Books: I love immersing myself in books, especially those related to technology, self-improvement, and fiction.
-- 🎶 Music: I enjoy listening to various genres of music, which helps me relax and find inspiration.
-- 🚴‍♂️ Fitness: I believe in maintaining a healthy lifestyle and often engage in activities like cycling and exercising.
+Passionate about AI, machine learning, and innovative tech solutions? 
+- 📧 [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
 
-Feel free to get in touch with me if you have any questions, suggestions, or collaboration opportunities. I'm always eager to connect with like-minded individuals who share a passion for technology and innovation.
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ansarimajid&color=blueviolet" alt="Profile Views" />
+</p>
 
-## 🚀 Skills And Technologys Know
-
-| Familer  | Technologys |
-| ---      | ---         |
-| Frameworks       | <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />  |
-| Data-Bases      | </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="40" height="42" alt="PostgreSQL" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" height="42" alt="sqlite" /></a> |
-| Languages       | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="36" height="36" alt="CPP" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>   |
-| Deployment      | <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/aws/aws.svg" width="42" height="36" alt="Aws" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://www.pythonanywhere.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/pythonanywhere.com/pythonanywhere.svg" width="36" height="36" alt="pythonanywhere" /></a>   |
-| Designing       | <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-| Socials       | <a href="https://www.github.com/Ansarimajid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/majid-ansari-961319221" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.instagram.com/ansari_majid_ali/" target="_blank" rel="noreferrer"><img src="https://gist.githubusercontent.com/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" width="32" height="32" /></a> |
-
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
