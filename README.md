@@ -91,7 +91,7 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
     <tr>
       <td width="50%" align="center">
         <h3>🎙️ EcoVoxGen: Real-Time Voice Cloning</h3>
-        <a href="https://github.com/Ansarimajid/EcoVoxGen">
+        <a href="[https://github.com/Ansarimajid/EcoVoxGen](https://github.com/Ansarimajid/Real-Time-Voice-Cloning.git)">
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=EcoVoxGen&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="EcoVoxGen" />
         </a>
         <p align="center">Advanced neural network-based voice synthesis technology</p>
@@ -103,7 +103,7 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
       </td>
       <td width="50%" align="center">
         <h3>🦺 PPE Detection System</h3>
-        <a href="https://github.com/Ansarimajid/PPE-Detection-System">
+        <a href="https://github.com/Ansarimajid/Construction-PPE-Detection">
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=PPE-Detection-System&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="PPE Detection System" />
         </a>
         <p align="center">AI-powered Personal Protective Equipment (PPE) detection system</p>
