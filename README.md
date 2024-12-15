@@ -154,6 +154,8 @@ Passionate about AI, machine learning, and innovative tech solutions?
 - 📧 [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
 
 ---
+## 💖 Support My Work
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support-green?logo=github-sponsors)](https://github.com/sponsors/Ansarimajid)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ansarimajid&color=blueviolet" alt="Profile Views" />
