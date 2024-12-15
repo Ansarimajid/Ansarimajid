@@ -1,9 +1,17 @@
 # Hi there! I'm Ansari Majid Ali 👋
 
-## 🤖 AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Specialist
+
+
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI/ML+Engineer;Open+Source+Enthusiast;Machine+Learning+Explorer)](https://git.io/typing-svg)
+
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ansari-961319221)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ansarimajid)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ansari_majid_ali/)
 
 ## 🌟 Professional Profile
@@ -76,47 +84,69 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
   - AI-Powered Content Creation
   - Synthetic Data Generation
 
-## 🚀 Flagship AI/ML Projects
+## 🏗️ Featured Projects
 
-### 1. EcoVoxGen: Real-Time Voice Cloning
-- 🎙️ Advanced neural network-based voice synthesis technology
-- 🔍 Features:
-  - Real-time voice cloning
-  - Speaker embedding extraction
-  - High-fidelity audio generation
-- 🛠️ Technologies: PyTorch, TensorFlow, Deep Learning, Speech Synthesis
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎙️ EcoVoxGen: Real-Time Voice Cloning</h3>
+        <a href="https://github.com/Ansarimajid/EcoVoxGen">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=EcoVoxGen&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="EcoVoxGen" />
+        </a>
+        <p align="center">Advanced neural network-based voice synthesis technology</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Deep%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <h3>🦺 PPE Detection System</h3>
+        <a href="https://github.com/Ansarimajid/PPE-Detection-System">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=PPE-Detection-System&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="PPE Detection System" />
+        </a>
+        <p align="center">AI-powered Personal Protective Equipment (PPE) detection system</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>👤 Advanced Face Recognition</h3>
+        <a href="https://github.com/Ansarimajid/Face-Recognition-System">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=Face-Recognition-System&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="Face Recognition System" />
+        </a>
+        <p align="center">Cutting-edge facial recognition solution with deep learning</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+          <img src="https://img.shields.io/badge/Deep%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎨 Generative AI Platform</h3>
+        <a href="https://github.com/Ansarimajid/Generative-AI-Content-Platform">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=Generative-AI-Content-Platform&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="Generative AI Content Platform" />
+        </a>
+        <p align="center">AI-driven content generation with innovative features</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Generative%20AI-00BFFF?style=for-the-badge&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Transformer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 2. PPE Detection System
-- 🦺 AI-powered Personal Protective Equipment (PPE) detection
-- 🔬 Key Capabilities:
-  - Real-time object detection
-  - Safety compliance monitoring
-  - Multi-class PPE identification
-- 🧠 Technologies: YOLO, OpenCV, TensorFlow, Computer Vision
+## 🌟 Project Highlights
 
-### 3. Advanced Face Recognition System
-- 👤 Cutting-edge facial recognition solution
-- ✨ Highlights:
-  - Deep learning-based facial feature extraction
-  - Multi-face detection and identification
-  - High accuracy facial matching
-- 🤖 Technologies: Face Recognition API, OpenCV, Deep Learning
+- 🏆 All projects showcase cutting-edge AI and machine learning technologies
+- 🔬 Focus on practical, innovative solutions across various domains
+- 💡 Continuous improvement and learning through challenging projects
 
-### 4. Generative AI Content Creation Platform
-- 🎨 AI-driven content generation system
-- 💡 Innovative Features:
-  - Text-to-image generation
-  - Creative writing assistance
-  - Style transfer capabilities
-- 🧠 Technologies: Generative AI, Transformer Models, GANs
-
-### 5. Sentiment Analysis Dashboard
-- 📊 Intelligent social media sentiment tracker
-- 🔍 Core Functionalities:
-  - Real-time emotion detection
-  - Multi-language sentiment analysis
-  - Visualization of emotional trends
-- 🛠️ Technologies: Natural Language Processing, Machine Learning, Data Visualization
 
 ## 📊 GitHub Stats
 
