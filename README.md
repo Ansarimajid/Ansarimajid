@@ -1,12 +1,6 @@
 # Hi there! I'm Ansari Majid Ali 👋
 
-
-
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI/ML+Engineer;Open+Source+Enthusiast;Machine+Learning+Explorer)](https://git.io/typing-svg)
-
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ansari-961319221)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ansarimajid)
@@ -91,9 +85,6 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
     <tr>
       <td width="50%" align="center">
         <h3>🎙️ EcoVoxGen: Real-Time Voice Cloning</h3>
-        <a href="[https://github.com/Ansarimajid/EcoVoxGen](https://github.com/Ansarimajid/Real-Time-Voice-Cloning.git)">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=EcoVoxGen&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="EcoVoxGen" />
-        </a>
         <p align="center">Advanced neural network-based voice synthesis technology</p>
         <div align="center">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -103,9 +94,6 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
       </td>
       <td width="50%" align="center">
         <h3>🦺 PPE Detection System</h3>
-        <a href="https://github.com/Ansarimajid/Construction-PPE-Detection">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=PPE-Detection-System&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="PPE Detection System" />
-        </a>
         <p align="center">AI-powered Personal Protective Equipment (PPE) detection system</p>
         <div align="center">
           <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
@@ -117,9 +105,6 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
     <tr>
       <td width="50%" align="center">
         <h3>👤 Advanced Face Recognition</h3>
-        <a href="https://github.com/Ansarimajid/Face-Recognition-System">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=Face-Recognition-System&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="Face Recognition System" />
-        </a>
         <p align="center">Cutting-edge facial recognition solution with deep learning</p>
         <div align="center">
           <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -128,9 +113,6 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
       </td>
       <td width="50%" align="center">
         <h3>🎨 Generative AI Platform</h3>
-        <a href="https://github.com/Ansarimajid/Generative-AI-Content-Platform">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ansarimajid&repo=Generative-AI-Content-Platform&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" alt="Generative AI Content Platform" />
-        </a>
         <p align="center">AI-driven content generation with innovative features</p>
         <div align="center">
           <img src="https://img.shields.io/badge/Generative%20AI-00BFFF?style=for-the-badge&logo=openai&logoColor=white" />
@@ -140,13 +122,6 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
     </tr>
   </table>
 </div>
-
-## 🌟 Project Highlights
-
-- 🏆 All projects showcase cutting-edge AI and machine learning technologies
-- 🔬 Focus on practical, innovative solutions across various domains
-- 💡 Continuous improvement and learning through challenging projects
-
 
 ## 📊 GitHub Stats
 
