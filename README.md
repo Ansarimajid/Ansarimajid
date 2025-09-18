@@ -1,4 +1,4 @@
-# Hi there! I'm Ansari Majid Ali 👋
+# Hi there! I'm Majid Ali Ansari 👋
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI/ML+Engineer;Open+Source+Enthusiast;Machine+Learning+Explorer)](https://git.io/typing-svg)
 
