@@ -1,6 +1,6 @@
 # Hi there! I'm Majid Ali Ansari 👋
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI/ML+Engineer;Open+Source+Enthusiast;Machine+Learning+Explorer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI+Engineer;Open+Source+Enthusiast;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ansari-961319221)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ansarimajid)
