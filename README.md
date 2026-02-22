@@ -175,10 +175,6 @@ Passionate about AI, machine learning, and innovative tech solutions?
 ## 💖 Support My Work
 [![Sponsor](https://img.shields.io/badge/Sponsor-Support-green?logo=github-sponsors)](https://github.com/sponsors/Ansarimajid)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ansarimajid&color=blueviolet" alt="Profile Views" />
-</p>
-
 ![Snake animation](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer Wave -->
