@@ -15,7 +15,7 @@
 <div align="center">
   
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Computer+Vision;🎨+Generative+AI+%26+LLMs;🔬+Turning+Research+into+Real+Solutions;🚀+Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;Deep+Learning+%26+Computer+Vision;Generative+AI+%26+LLMs;Turning+Research+into+Real+Solutions;Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
 
 </div>
 
