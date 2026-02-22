@@ -182,16 +182,36 @@
 - 💡 Developing intelligent solutions
 - 🔬 Continuous learning in machine learning domains
 
-## 📬 Let's Connect & Collaborate!
 
-Passionate about AI, machine learning, and innovative tech solutions? 
-- 📧 [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
+## 📬 Connect With Me
+
+<div align="center">
+
+💼 Open to **AI/ML collaborations**, **research projects**, and **freelance opportunities**
+
+<a href="https://www.linkedin.com/in/ansmajidali">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ansmajidali@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
-## 💖 Support My Work
-[![Sponsor](https://img.shields.io/badge/Sponsor-Support-green?logo=github-sponsors)](https://github.com/sponsors/Ansarimajid)
 
-![Snake animation](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+### 💖 Support My Work
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_My_Work-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Ansarimajid)
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
