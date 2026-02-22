@@ -6,30 +6,20 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Computer+Vision;🎨+Generative+AI+%26+LLMs;🔬+Turning+Research+into+Real+Solutions;🚀+Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansmajidali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.github.com/Ansarimajid">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/ansmajidali">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ansari_majid_ali/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:ansmajidali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
-<!-- Profile Views & Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ansarimajid&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/Ansarimajid?color=58A6FF&style=for-the-badge&logo=github&label=FOLLOWERS"/>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansmajidali)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansarimajid)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansmajidali@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ansmajidali)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ansari_majid_ali/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ansarimajid&color=1158c7&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Ansarimajid?color=1158c7&style=flat-square&logo=github&label=Followers)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Contribute-2ea44f?style=flat-square)
+
+</div>
 
 </div>
 
