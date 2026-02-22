@@ -1,7 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1158c7&height=220&section=header&text=Majid%20Ali%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20LLMs%20%C2%B7%20Generative%20AI&descAlignY=62&descColor=8b949e&descSize=18"/>
+<!-- DARK MODE BANNER -->
+<a href="https://github.com/Ansarimajid#gh-dark-mode-only">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1158c7&height=220&section=header&text=Majid%20Ali%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20LLMs%20%C2%B7%20Generative%20AI&descAlignY=62&descColor=8b949e&descSize=18#gh-dark-mode-only"/>
+</a>
 
+<!-- LIGHT MODE BANNER -->
+<a href="https://github.com/Ansarimajid#gh-light-mode-only">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,40:c7d8f8,100:1158c7&height=220&section=header&text=Majid%20Ali%20Ansari&fontSize=58&fontColor=1158c7&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20LLMs%20%C2%B7%20Generative%20AI&descAlignY=62&descColor=444d56&descSize=18#gh-light-mode-only"/>
+</a>
+
+</div>
+
+<div align="center">
+  
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Computer+Vision;🎨+Generative+AI+%26+LLMs;🔬+Turning+Research+into+Real+Solutions;🚀+Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
 
