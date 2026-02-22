@@ -1,20 +1,42 @@
-# Hi there! I'm Majid Ali Ansari 👋
+<div align="center">
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI+Engineer;Open+Source+Enthusiast;Machine+Learning+Engineer)](https://git.io/typing-svg)
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58A6FF&height=200&section=header&text=Majid%20Ansari&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20GenAI&descAlignY=60&descColor=8b949e"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ansari-961319221)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ansarimajid)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ansari_majid_ali/)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Computer+Vision;🎨+Generative+AI+%26+LLMs;🔬+Turning+Research+into+Real+Solutions;🚀+Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
 
-## 🌟 Professional Profile
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansmajidali">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.github.com/Ansarimajid">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/ansmajidali">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ansari_majid_ali/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:ansmajidali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I'm an AI/ML Engineer passionate about pushing the boundaries of artificial intelligence, specializing in deep learning, computer vision, and generative AI technologies. With a mission to solve complex problems through cutting-edge machine learning solutions.
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ansarimajid&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Ansarimajid?color=58A6FF&style=for-the-badge&logo=github&label=FOLLOWERS"/>
+</p>
+
+</div>
+
+---
 
 ## 💡 AI & Machine Learning Expertise
-
-### 🧠 Core Competencies
+🧠 Core Competencies
 - Deep Learning Architecture Design
 - Computer Vision
 - Machine Learning Algorithms
@@ -138,10 +160,6 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of artificial inte
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansarimajid&theme=radical&no-frame=true&row=1&column=7" alt="Trophy" width="100%" />
-</div>
-
 ## 🌈 Research & Innovation Interests
 
 - 🤖 Exploring cutting-edge AI technologies
@@ -162,3 +180,8 @@ Passionate about AI, machine learning, and innovative tech solutions?
 </p>
 
 ![Snake animation](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
+
+</div>
