@@ -100,50 +100,66 @@
   - AI-Powered Content Creation
   - Synthetic Data Generation
 
-## 🏗️ Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎙️ EcoVoxGen: Real-Time Voice Cloning</h3>
-        <p align="center">Advanced neural network-based voice synthesis technology</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/Deep%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <h3>🦺 PPE Detection System</h3>
-        <p align="center">AI-powered Personal Protective Equipment (PPE) detection system</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>👤 Advanced Face Recognition</h3>
-        <p align="center">Cutting-edge facial recognition solution with deep learning</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/Deep%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎨 Generative AI Platform</h3>
-        <p align="center">AI-driven content generation with innovative features</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Generative%20AI-00BFFF?style=for-the-badge&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/Transformer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td width="50%">
+
+### 🎙️ EcoVoxGen — Real-Time Voice Cloning
+> Advanced neural network-based voice synthesis with real-time cloning capabilities
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B8BBE?style=flat-square)
+
+**Key Features:** Real-time synthesis · Multi-speaker support · Low latency
+
+</td>
+<td width="50%">
+
+### 🦺 PPE Detection System
+> AI-powered Personal Protective Equipment detection for industrial safety
+
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Key Features:** Real-time detection · 95%+ accuracy · Edge deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👤 Advanced Face Recognition
+> Cutting-edge facial recognition with deep metric learning
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Key Features:** Real-time recognition · Liveness detection · Multi-face tracking
+
+</td>
+<td width="50%">
+
+### 🎨 Generative AI Platform
+> Full-stack AI content generation platform with transformer-powered backends
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Key Features:** Multi-modal generation · RAG pipeline · Scalable API
+
+</td>
+</tr>
+</table>
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
