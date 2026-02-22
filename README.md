@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58A6FF&height=200&section=header&text=Majid%20Ansari&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20GenAI&descAlignY=60&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1158c7&height=220&section=header&text=Majid%20Ali%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20LLMs%20%C2%B7%20Generative%20AI&descAlignY=62&descColor=8b949e&descSize=18"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Computer+Vision;🎨+Generative+AI+%26+LLMs;🔬+Turning+Research+into+Real+Solutions;🚀+Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
 
+</div>
 
 <div align="center">
 
