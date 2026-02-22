@@ -176,13 +176,15 @@
   </table>
 </div>
 
+---
+
 ## 🌈 Research & Innovation Interests
 
 - 🤖 Exploring cutting-edge AI technologies
 - 💡 Developing intelligent solutions
 - 🔬 Continuous learning in machine learning domains
 
-
+---
 ## 📬 Connect With Me
 
 <div align="center">
@@ -199,21 +201,16 @@
 
 </div>
 
----
-
 <div align="center">
 
-### 💖 Support My Work
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor_My_Work-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Ansarimajid)
 
+---
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub Contribution Snake" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
 
 </div>
